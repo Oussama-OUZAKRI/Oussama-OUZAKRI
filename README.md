@@ -1,5 +1,4 @@
-![Banner](https://path/to/your/banner-image.png)
-# Hi there 👋, I'm Oussama OUZAKRI
+![Banner](https://github.com/Oussama-OUZAKRI/Oussama-OUZAKRI/blob/main/banner.jpg)
 
 I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Software Engineering for Digital Services (ASEDS)**. My journey in tech is driven by a blend of curiosity, creativity, and a commitment to crafting efficient, scalable digital solutions.
 
