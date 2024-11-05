@@ -32,8 +32,13 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />  
 
-</div>  
+</div>
 
 ---  
 
@@ -45,21 +50,11 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages" />  
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oussama-OUZAKRI&theme=github" alt="Oussama's GitHub Activity Graph" />
+
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=onedark)
+  
 </div>
----
-
-### 📊 WakaTime Stats
-[![WakaTime](https://wakatime.com/badge/user/your_username.svg)](https://wakatime.com/@your_username)
-
----
-
-### 🌟 Contribution Graph
-[![Oussama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oussama-OUZAKRI&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=onedark)
 
 ---
 
