@@ -56,6 +56,8 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 20px; margin-top: 20px;">  
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oussama-OUZAKRI&theme=github" alt="Oussama's GitHub Activity Graph" style="max-height: 200px; width: 100%;" />
