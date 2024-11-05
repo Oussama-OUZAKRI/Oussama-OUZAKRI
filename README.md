@@ -45,15 +45,9 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 ### 📊 GitHub Stats  
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 20px; width: 100%;">
-
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oussama's GitHub Stats" style="max-height: 200px; width: 100%;" />  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages" style="max-height: 200px; width: 100%;" />  stify-content: center; align-items: center;">
   </div>
-  
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages" style="max-height: 200px; width: 100%;" />  
-  </div>
-
 </div>
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
