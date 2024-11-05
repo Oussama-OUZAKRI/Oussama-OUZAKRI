@@ -46,23 +46,23 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 20px; width: 100%;">
 
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oussama's GitHub Stats" style="max-height: 200px; width: 100%;" />  
   </div>
   
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages" style="max-height: 200px; width: 100%;" />  
   </div>
 
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 20px; margin-top: 20px;">  
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 20px; margin-top: 20px;">  
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oussama-OUZAKRI&theme=github" alt="Oussama's GitHub Activity Graph" style="max-height: 200px; width: 100%;" />
   </div>
 
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    ![Trophies](https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=onedark)
+    <img src="https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=onedark" alt="Trophies" style="max-height: 200px; width: 100%;" />
   </div>
 </div>
 
