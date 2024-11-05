@@ -12,9 +12,9 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 ---
 
 ### 🔭 Latest Projects:
-- **RESTful API for Customer Management**: Implemented a robust backend, leveraging automated ID generation and seamless data handling.
-- **Data Classification Lab**: Conducted analysis using LDA and QDA models, in collaboration with Prof. Zineb El Akkaoui.
-- **Portfolio Enrichment**: Building a collection of hands-on projects to showcase my expertise in software engineering.
+- **Tarab Music Platform**: A full-stack web application dedicated to traditional Tarab music, where users can explore, listen, and learn about this unique musical genre.
+- **Insurance ChatBot App**: Developed an AI-powered chatbot application designed to streamline customer service and provide instant assistance in the insurance sector.
+- **Portfolio Development**: Building a personal portfolio to showcase my projects, skills, and experience as a software engineer.
 
 ---
 
@@ -27,8 +27,8 @@ I'm eager to team up on:
 ---
 
 ### 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/oussama-ouzakri-44ab322a5/)
+- [Gmail](oussamaouzakri@gmail.com)
 
 ---
 
