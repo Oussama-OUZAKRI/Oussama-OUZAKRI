@@ -19,16 +19,26 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 ---
 
 ### 🛠 Technology Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+### 📊 GitHub Stats
+
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oussama's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages" />
+
+</div>
 
 ---
 
