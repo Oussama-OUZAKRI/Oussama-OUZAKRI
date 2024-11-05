@@ -1,3 +1,4 @@
+![Banner](https://path/to/your/banner-image.png)
 # Hi there 👋, I'm Oussama OUZAKRI
 
 I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Software Engineering for Digital Services (ASEDS)**. My journey in tech is driven by a blend of curiosity, creativity, and a commitment to crafting efficient, scalable digital solutions.
@@ -15,6 +16,30 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 - **Tarab Music Platform**: A full-stack web application dedicated to traditional Tarab music, where users can explore, listen, and learn about this unique musical genre.
 - **Insurance ChatBot App**: Developed an AI-powered chatbot application designed to streamline customer service and provide instant assistance in the insurance sector.
 - **Portfolio Development**: Building a personal portfolio to showcase my projects, skills, and experience as a software engineer.
+
+---
+
+### 🛠 Technology Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 📊 GitHub Stats:
+![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+---
+
+### 🌟 Contribution Graph
+[![Oussama's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Oussama-OUZAKRI&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=onedark)
 
 ---
 
