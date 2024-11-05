@@ -57,9 +57,7 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 </div>
 
 <!-- Badge de série GitHub -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oussama-OUZAKRI)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oussama-OUZAKRI)](https://git.io/streak-stats)
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 20px; margin-top: 20px;">  
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
