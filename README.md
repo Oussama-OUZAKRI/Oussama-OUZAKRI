@@ -44,10 +44,12 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
   <img src="https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oussama's GitHub Stats" />  
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages" />  
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Oussama-OUZAKRI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="WakaTime Stats" />  
 
 </div>
+---
+
+### 📊 WakaTime Stats
+[![WakaTime](https://wakatime.com/badge/user/your_username.svg)](https://wakatime.com/@your_username)
 
 ---
 
