@@ -68,7 +68,7 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
   </div>
 
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=onedark" alt="Trophies" style="max-height: 200px; width: 100%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=onedark" alt="Trophies" style="max-height: 200px; width: 100%; margin: 0 5px" />
   </div>
 </div>
 
