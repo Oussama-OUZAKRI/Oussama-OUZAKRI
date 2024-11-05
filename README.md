@@ -56,7 +56,7 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oussama-OUZAKRI)](https://git.io/streak-stats)
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 20px; margin-top: 20px;">  
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
