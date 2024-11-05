@@ -44,7 +44,7 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 
 ### 📊 GitHub Stats  
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 20px; width: 100%;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 20px; width: 100%;">
 
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Oussama's GitHub Stats" style="max-height: 200px; width: 100%;" />  
