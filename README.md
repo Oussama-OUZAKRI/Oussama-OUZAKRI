@@ -33,7 +33,7 @@ I'm a passionate **Software Engineer** and a dedicated learner in **Advanced Sof
 ---
 
 ### 🌟 Contribution Graph
-[![Oussama's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Oussama-OUZAKRI&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Oussama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oussama-OUZAKRI&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
