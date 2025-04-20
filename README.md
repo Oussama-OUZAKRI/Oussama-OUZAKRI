@@ -11,7 +11,7 @@
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-👋 Welcome to my profile! I'm a passionate developer, dedicated to creating elegant solutions for complex problems. Driven by insatiable curiosity, I constantly explore new technologies, particularly in distributed systems and advanced software architectures, to develop robust and scalable applications.
+👋 Welcome to my profile! I'm a software engineering student, dedicated to creating elegant solutions for complex problems. Driven by insatiable curiosity, I constantly explore new technologies, particularly in distributed systems and advanced software architectures, to develop robust and scalable applications.
 
 ## 🐍 Contribution Graph
 
