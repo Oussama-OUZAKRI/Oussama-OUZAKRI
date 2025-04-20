@@ -18,6 +18,8 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -36,7 +38,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - name: Show build status
         run: git status
@@ -49,4 +51,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
