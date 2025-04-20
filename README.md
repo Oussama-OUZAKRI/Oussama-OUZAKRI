@@ -60,24 +60,28 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&langs_count=7&theme=tokyonight"/>
-  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oussama-OUZAKRI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-OUZAKRI&layout=compact&langs_count=7&theme=tokyonight" />  
+  </div> 
+
   <!-- GitHub Streak -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-OUZAKRI&theme=tokyonight" alt="Oussama-OUZAKRI" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-OUZAKRI&theme=tokyonight" alt="Oussama-OUZAKRI" />
   
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussama-OUZAKRI&theme=tokyonight" alt="Activity Graph" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oussama-OUZAKRI&theme=tokyonight" alt="Activity Graph" />
 
   <!-- Trophy Display -->
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <div style="text-align: center; margin-top: 20px; width:80%;">  
+    <img style="display: inline-block; margin: 5px;" src="https://github-profile-trophy.vercel.app/?username=Oussama-OUZAKRI&theme=tokyonight&column=3&margin-w=5&margin-h=5" alt="GitHub Trophies" />  
+  </div>
 </div>
 
 ## 🔥 Coding Time & Productivity
 
 <div align="center">
   <!-- WakaTime Analytics -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=98fce68c-4ce1-4c10-a4ef-82ab41db6e48&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=98fce68c-4ce1-4c10-a4ef-82ab41db6e48&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ## 🏆 My Featured Projects
@@ -86,9 +90,13 @@
   <a href="https://github.com/Oussama-OUZAKRI/Wastonx-AI-Challenge">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oussama-OUZAKRI&repo=Wastonx-AI-Challenge&theme=tokyonight" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/Oussama-OUZAKRI/AutoCare-Management-System">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oussama-OUZAKRI&repo=AutoCare-Management-System&theme=tokyonight" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/Oussama-OUZAKRI/ZLab-recommendation-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oussama-OUZAKRI&repo=ZLab-recommendation-app&theme=tokyonight" />
   </a>
@@ -106,19 +114,11 @@
 </div>  
 
 <div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
+  ### Show some ❤️ by starring some of the repositories!
 </div>
 
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<!-- Spotify Now Playing -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=q0xby5z7sum6novtr95tv3qaz&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
