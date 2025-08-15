@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Create%20•%20Innovate%20•%20Share&descAlignY=55&descAlign=62)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Oussama-OUZAKRI/count.svg" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Oussama-OUZAKRI&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors" />
   <p>Thank you for visiting! 💙</p>
 </div>
 
